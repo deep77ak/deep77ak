@@ -6,5 +6,5 @@ Backend Application.My expertise spans a variety of modern technologies and plat
 and optimize performance.
 
 ### 📫 Connect with me:
-LinkedIn: www.linkedin.com/in/deepak-shukla-ab5919216
-Medium: https://medium.com/@deepakshukla.rec
+* LinkedIn: www.linkedin.com/in/deepak-shukla-ab5919216
+* Medium: https://medium.com/@deepakshukla.rec
